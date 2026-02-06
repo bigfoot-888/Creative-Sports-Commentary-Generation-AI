@@ -1,0 +1,15 @@
+torch>=2.0.0
+opencv-python
+matplotlib
+numpy
+pandas
+tqdm
+seaborn
+PyYAML
+requests
+ipython
+transformers
+huggingface-hub
+sentencepiece
+pydub
+gTTS
